@@ -234,3 +234,8 @@ body {
   margin: auto;
   display: block;
 }
+
+.footer {
+  padding: 20px 0;
+  text-align: center;
+}
